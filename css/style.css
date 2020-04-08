@@ -44,8 +44,8 @@ header{
 	text-transform: uppercase;
 }
 .scroll_down{
-	padding-top: 40px;
-	padding-bottom: 30px;
+	padding-top: 20vh;
+	padding-bottom: 15vh;
 }
 .scroll_down h4{
 	font-size: 12px;
@@ -57,7 +57,6 @@ header{
 /*Facts*/
 .facts{
 	padding-top: 96px;
-
 }
 .facts .container{
 	border-bottom: 1px solid #ddd;
@@ -118,7 +117,6 @@ header{
 }
 .single_image img{
 	width: 100%;
-
 }
 .single_image:hover div.image_overlay{
 	opacity: 1;
